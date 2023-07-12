@@ -1,2 +1,2 @@
-# profile-proxy
-It's used to distribute a profile uploading request to multiple endpoints
+# ddproxy
+It's used to proxy ddtrace APM requests to multiple endpoints
