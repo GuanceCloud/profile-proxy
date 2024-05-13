@@ -1,2 +1,2 @@
 # ddproxy
-It's used to proxy ddtrace APM requests to multiple endpoints
+It's used to proxy ddtrace export to multiple agents(Datakit, Datadog...).
